@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">03-intento-calculadora</string>
+    <string name="texto_boton_dos">2</string>
+    <string name="mensaje">Hola Mundo</string>
+</resources>
